@@ -1,1 +1,2 @@
 # hostel_outpass-project
+"A web-based Hostel Outpass Management System built with MERN stack. Allows students to apply for outpasses and admins to approve or reject requests. Features secure login, real-time status tracking, and a user-friendly dashboard for both students and admins."
